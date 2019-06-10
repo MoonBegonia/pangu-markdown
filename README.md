@@ -42,5 +42,3 @@ Right Click in editor (when open markdown file) -> Pangu Format
 ## Thanks
 
 Thanks to [pangu.vim](https://github.com/hotoo/pangu.vim), [writing4cn](https://marketplace.visualstudio.com/items?itemName=twocucao.writing4cn) and [pangu](https://marketplace.visualstudio.com/items?itemName=halfcrazy.pangu).
-
-[test](test/测试/asfa/阿三发散发.sfass)
